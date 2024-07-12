@@ -3,6 +3,8 @@ A great place to learn Ansible as well as some useful playbooks to get started u
 
 ## Getting Started
 
+> NOTE: The following is a history of the steps I took to get a fully working example, including everything that failed. So, be ready to make changes to the end and see the actual files in this directory for the final working example. 
+
 Certainly! Here's a guide to help you get started with Ansible:
 
 1. Install Ansible:
